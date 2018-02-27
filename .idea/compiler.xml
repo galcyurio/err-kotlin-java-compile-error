@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-default-archetype" />
+        <module name="maven-default-archetype-1" />
+        <module name="maven-default-archetype-2-resolved" />
+        <module name="maven-default-archetype-3-not-working" />
+        <module name="maven-default-archetype-resolved" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="err-kotlin-java-compile-error" target="1.5" />
+      <module name="maven-default-archetype" target="1.5" />
+      <module name="maven-default-archetype-1" target="1.5" />
+      <module name="maven-default-archetype-2-resolved" target="1.5" />
+      <module name="maven-default-archetype-3-not-working" target="1.5" />
+      <module name="maven-default-archetype-kotlin-source-file" target="1.5" />
+      <module name="maven-default-archetype-resolved" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

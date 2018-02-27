@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/err-kotlin-java-compile-error.iml" filepath="$PROJECT_DIR$/err-kotlin-java-compile-error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-default-archetype-1/maven-default-archetype-1.iml" filepath="$PROJECT_DIR$/maven-default-archetype-1/maven-default-archetype-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-default-archetype-2-resolved/maven-default-archetype-2-resolved.iml" filepath="$PROJECT_DIR$/maven-default-archetype-2-resolved/maven-default-archetype-2-resolved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-default-archetype-3-not-working/maven-default-archetype-3-not-working.iml" filepath="$PROJECT_DIR$/maven-default-archetype-3-not-working/maven-default-archetype-3-not-working.iml" />
+    </modules>
+  </component>
+</project>
